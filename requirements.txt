@@ -5,3 +5,4 @@ plotly
 Pillow
 streamlit-drawable-canvas
 opencv-python-headless
+matplotlib
